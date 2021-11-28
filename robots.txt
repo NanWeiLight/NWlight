@@ -1,2 +1,2 @@
-User-agent: CNAME css favicon index.html js
+User-agent: *
 Disallow: /
