@@ -1,0 +1,2 @@
+User-agent: CNAME css favicon index.html js
+Disallow: /
